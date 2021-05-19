@@ -13,7 +13,7 @@ The Cisco Intersight Terraform provider is now available for use direcly from th
 Clone or fork the terraform-intersight-hyperflex repository to create a local copy of the scripts to work with.
 
 ```
-git clone https://github.com/ucs-compute-solutions/terraform-intersight-hyperflex.git
+git clone https://github.com/lumenghi/terraform-intersight-hyperflex
 ```
 
 ## Usage
